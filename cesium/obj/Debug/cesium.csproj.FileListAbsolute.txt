@@ -1,0 +1,8 @@
+C:\Users\pupsik\source\repos\cesium\cesium\bin\Debug\cesium.exe
+C:\Users\pupsik\source\repos\cesium\cesium\bin\Debug\cesium.pdb
+C:\Users\pupsik\source\repos\cesium\cesium\obj\Debug\cesium.csproj.AssemblyReference.cache
+C:\Users\pupsik\source\repos\cesium\cesium\obj\Debug\cesium.Form1.resources
+C:\Users\pupsik\source\repos\cesium\cesium\obj\Debug\cesium.csproj.GenerateResource.cache
+C:\Users\pupsik\source\repos\cesium\cesium\obj\Debug\cesium.csproj.CoreCompileInputs.cache
+C:\Users\pupsik\source\repos\cesium\cesium\obj\Debug\cesium.exe
+C:\Users\pupsik\source\repos\cesium\cesium\obj\Debug\cesium.pdb
